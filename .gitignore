@@ -1,0 +1,70 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+*.sln*
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Unity metadata
+*.meta
+
+# Packages
+Packages/
+Packages/*/
+Packages/*/package.json
+
+# Cache
+*.pidb
+*.ilk
+*.pdb
+*.idb
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Ignore build artifacts
+Build/
+Builds/
+Assets/StreamingAssets/
+
+# Logs and temporary files
+*.log
+*.svd
+*.userprefs
+*.obj
+*.tmp
+*.bak
+*.swp
+*.sln.docstates
+
+# Unity auto-generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Ignore crashes
+crash.log
+error.log
+*.dmp
+*.stackdump
